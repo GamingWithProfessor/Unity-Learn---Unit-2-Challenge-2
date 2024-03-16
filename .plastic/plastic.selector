@@ -1,0 +1,4 @@
+repository "Unity Learn - Unit 2 Challenge 2@Unity_Learn_2024@cloud"
+  path "/"
+    br "/main"
+    co "/main"
